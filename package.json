@@ -1,0 +1,20 @@
+{
+  "name": "unit-testing-integration-tests-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.2",
+    "node-mocks-http": "^1.9.0"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
